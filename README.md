@@ -5,7 +5,6 @@ winget install microsoft.azd
 https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/install-azd?tabs=winget-windows%2Cbrew-mac%2Cscript-linux&pivots=os-windows
 
 Login:
-
 azd auth login
 
 Go to the project directory and use the following command:
