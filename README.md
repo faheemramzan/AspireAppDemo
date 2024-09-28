@@ -14,6 +14,10 @@ Upload and deploy the resurces to Azure subscription. It will ask for the subscr
 
 azd up
 
+Clean up:
+
+azd down
+
 
 Resources:
 
